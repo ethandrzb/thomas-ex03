@@ -7,9 +7,9 @@ import java.util.Scanner;
 
 // Pseudocode Solution
 // Prompt user for a quote
-// Store quote in variable "quote"
+// Store user input in variable "quote"
 // Prompt user for who said the quote
-// Store quote speaker in variable "speaker"
+// Store user input in variable "speaker"
 // Print <speaker> says, "<quote>"
 
 public class Solution03
